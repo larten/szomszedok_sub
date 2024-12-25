@@ -1,0 +1,2428 @@
+1
+00:00:23,460 --> 00:00:24,881
+Költözik a szerkesztőség.
+
+2
+00:00:25,041 --> 00:00:25,441
+Hová?
+
+3
+00:00:25,761 --> 00:00:27,342
+Azt nem tudom, valami kisebb helyre.
+
+4
+00:00:27,602 --> 00:00:28,683
+Egy páran el is jönnek.
+
+5
+00:00:29,144 --> 00:00:30,165
+A kisebb hely miatt?
+
+6
+00:00:30,465 --> 00:00:31,106
+Nem azért.
+
+7
+00:00:31,526 --> 00:00:32,807
+Vágási felé is kilép.
+
+8
+00:00:33,928 --> 00:00:35,630
+Mondd csak, nem fér el?
+
+9
+00:00:36,610 --> 00:00:38,272
+Ott csak egy törzelőnek van hely.
+
+10
+00:00:38,492 --> 00:00:41,234
+Mindig éjszaka kellett volna dolgoznia, és ezt nem vállalta.
+
+11
+00:00:41,374 --> 00:00:42,636
+Inkább keres egy új helyet.
+
+12
+00:00:42,816 --> 00:00:43,576
+Nem lesz könnyű.
+
+13
+00:00:44,837 --> 00:00:47,199
+Napontan jönnek új lapok, és szűnik meg egy csomó.
+
+14
+00:00:47,580 --> 00:00:49,121
+Olyan biztos benne, hogy talál helyet?
+
+15
+00:00:49,461 --> 00:00:50,102
+Ezt nem tudom.
+
+16
+00:00:50,262 --> 00:00:51,783
+Nekem azt mondták, hogy maradhatok.
+
+17
+00:00:51,984 --> 00:00:53,185
+Úgysem kapok fizetést.
+
+18
+00:00:53,225 --> 00:00:54,626
+Csak néha egy-egy riport után.
+
+19
+00:00:54,886 --> 00:00:56,007
+De nagyon sokat tanulok.
+
+20
+00:00:57,321 --> 00:01:00,424
+Azt ígérted, hogy az új év után megbeszéljük a külföldi utazást.
+
+21
+00:01:00,844 --> 00:01:02,245
+De azóta senki nem szólt róla.
+
+22
+00:01:02,485 --> 00:01:03,766
+Mert még minden bizonytalan.
+
+23
+00:01:04,447 --> 00:01:06,088
+Gábor sem döntötte még el, mit akar.
+
+24
+00:01:06,469 --> 00:01:07,509
+Apád is acilál.
+
+25
+00:01:08,390 --> 00:01:10,132
+Én mennék, sőt, nagyon mennék.
+
+26
+00:01:11,473 --> 00:01:13,915
+Majd este beszélünk az egészről, ha mind együtt vagyunk.
+
+27
+00:01:14,575 --> 00:01:15,296
+Megvan a lista?
+
+28
+00:01:15,576 --> 00:01:15,916
+Meg.
+
+29
+00:01:16,197 --> 00:01:16,537
+Mint?
+
+30
+00:01:16,937 --> 00:01:17,798
+Tegnap adtam, nem?
+
+31
+00:01:17,858 --> 00:01:18,739
+Hol van az már?
+
+32
+00:01:20,643 --> 00:01:22,324
+Belmegyek a szerkesztőségbe.
+
+33
+00:01:22,545 --> 00:01:24,046
+Hát, ha akad valami jó riport.
+
+34
+00:01:24,706 --> 00:01:25,707
+Ki jön ma vacsorára?
+
+35
+00:01:26,348 --> 00:01:27,248
+Etus és Gábor.
+
+36
+00:01:27,428 --> 00:01:30,151
+Hozz légy szíves egy üvegbort is, és valami ödítő is kell.
+
+37
+00:01:30,431 --> 00:01:34,574
+Radd be mindent a hűtőbe, és ha lehet, mondd ne megbulizni, hanem gyere haza és segíts.
+
+38
+00:01:35,115 --> 00:01:35,735
+Lehetséges?
+
+39
+00:01:35,955 --> 00:01:36,916
+Megpróbálom.
+
+40
+00:01:37,016 --> 00:01:37,316
+Kösz.
+
+41
+00:01:37,737 --> 00:01:41,900
+Szia.
+
+42
+00:01:41,940 --> 00:01:42,300
+Anya!
+
+43
+00:01:43,341 --> 00:01:43,661
+Igen?
+
+44
+00:01:44,182 --> 00:01:45,403
+Ne menjünk külföldre, jó?
+
+45
+00:01:46,638 --> 00:01:48,339
+Majd meglátjuk, ne izgulj.
+
+46
+00:01:48,919 --> 00:01:52,280
+Nem olyan nagy csapás, ha jól megtanulsz egy nyelvet, és összeszedünk némi pénzt.
+
+47
+00:01:52,600 --> 00:01:54,021
+Nem a világ végére megyünk.
+
+48
+00:01:54,421 --> 00:01:56,021
+Nem értem, miért tiltakozol ennyire.
+
+49
+00:01:56,622 --> 00:01:57,782
+Együtt marad a család.
+
+50
+00:01:58,282 --> 00:01:59,002
+Ez nem igaz.
+
+51
+00:01:59,463 --> 00:02:01,683
+Etus itt marad, és az összes barátom itt él.
+
+52
+00:02:02,504 --> 00:02:04,144
+Nagyon magányos lennék nélkülük.
+
+53
+00:02:04,804 --> 00:02:06,125
+Akkor inkább én is itt maradok.
+
+54
+00:02:07,492 --> 00:02:12,134
+Barátaim, új évet kezdünk, ami tele van titkokkal, és nem tudjuk, mit hoz.
+
+55
+00:02:13,094 --> 00:02:18,516
+De egy dologban biztos vagyok, hogy ez egy kivételesen jó és összeszokottan testület.
+
+56
+00:02:19,236 --> 00:02:24,138
+És remélem együtt azt is átvészeljük, ha nehéz idők következnek.
+
+57
+00:02:24,158 --> 00:02:26,879
+Hogy nehéz idők jönnek, abban mindenki biztos lehet.
+
+58
+00:02:27,019 --> 00:02:28,240
+Ne rúzd el a hangulatot.
+
+59
+00:02:28,940 --> 00:02:31,641
+Inkább azt mondd meg, hogy mire várnak ott azok a poharak.
+
+60
+00:02:32,182 --> 00:02:33,983
+Erre, egy kis pesbőre.
+
+61
+00:02:34,603 --> 00:02:36,883
+Félek, hogy nagyon vidám órák következnek.
+
+62
+00:02:37,584 --> 00:02:38,604
+Ettől nem kell félned.
+
+63
+00:02:39,024 --> 00:02:41,985
+Gottszintás után beszámolok az anyagi helyzetünkről.
+
+64
+00:02:42,145 --> 00:02:44,526
+Annyira azért nem akarok rossz kedvű lenni.
+
+65
+00:02:45,086 --> 00:02:49,827
+Ígyunk arra, hogy 1995 még ennél a fantasztikus óévnél is jobb lesz.
+
+66
+00:02:50,308 --> 00:02:52,968
+Na hát, ezt kivételesen támogatom.
+
+67
+00:02:53,689 --> 00:03:01,271
+Ígyunk arra, hogy a gyerekek is, meg a tanárok is egészségesek legyenek, és a tanévszáró se legyen szomorúbb, mint a mai nap.
+
+68
+00:03:02,386 --> 00:03:11,349
+Én arra hiszem, hogy Havel igazgató úrnak több bátorsága, Bujákinak több pénze, Csabának végre egy felesége.
+
+69
+00:03:11,690 --> 00:03:12,070
+Egy.
+
+70
+00:03:13,190 --> 00:03:16,191
+És Béla bácsinak kevesebb morognivalója legyen.
+
+71
+00:03:16,331 --> 00:03:18,492
+Ez eddig mind szép, de magadat kihagytad.
+
+72
+00:03:19,252 --> 00:03:20,333
+Mit kívánsz magadnak?
+
+73
+00:03:20,853 --> 00:03:22,273
+Te sem maradhatsz ki a sorból.
+
+74
+00:03:23,134 --> 00:03:26,355
+Hogy a gyerekek minél több szép zenét halljanak, és szép képet lássanak.
+
+75
+00:03:26,475 --> 00:03:27,275
+Egészségetekre.
+
+76
+00:03:27,836 --> 00:03:28,976
+Egészségére, Béla bácsi.
+
+77
+00:03:29,878 --> 00:03:31,299
+Magát látja valami.
+
+78
+00:03:32,000 --> 00:03:32,800
+Segíthetek?
+
+79
+00:03:33,661 --> 00:03:35,502
+Nem komoly, rosszul látja Béla bácsi.
+
+80
+00:03:35,582 --> 00:03:36,363
+Egészségére.
+
+81
+00:03:39,645 --> 00:03:42,587
+A szokott úton a áruházpresszor, szóval sehol semmi.
+
+82
+00:03:43,188 --> 00:03:45,309
+Előbb-utóbb kiállok egy kalaparab sarokra.
+
+83
+00:03:45,930 --> 00:03:49,732
+A sarokra semmiképpen ne állj, mert még elcsábítanak a rossz lányok.
+
+84
+00:03:50,033 --> 00:03:52,714
+Vigyázz magadra nagyapad, szét fognak tépni.
+
+85
+00:03:54,456 --> 00:03:55,597
+Mindegy, szép fiú.
+
+86
+00:04:02,014 --> 00:04:04,476
+Ezt a pár könyvet nem szívesen hagytam volna itt nálatok.
+
+87
+00:04:05,236 --> 00:04:06,497
+Minket szívesen hagysz itt?
+
+88
+00:04:07,838 --> 00:04:09,239
+Ez tőled igazán gonosz kérdés.
+
+89
+00:04:10,460 --> 00:04:11,201
+Miért lenne az?
+
+90
+00:04:12,261 --> 00:04:13,322
+Nem miattam mész el.
+
+91
+00:04:13,582 --> 00:04:14,043
+Gondolod?
+
+92
+00:04:15,504 --> 00:04:16,324
+Megbántottalak.
+
+93
+00:04:17,145 --> 00:04:18,446
+Te nem tudod, hogy én miért megyek el?
+
+94
+00:04:19,527 --> 00:04:19,667
+Ne.
+
+95
+00:04:20,828 --> 00:04:21,528
+Akkor ezt hagyjuk.
+
+96
+00:04:22,489 --> 00:04:24,690
+Remélem az új szerkesztőségben jól érzed magad.
+
+97
+00:04:25,991 --> 00:04:29,054
+Őszintén megvallom, ilyen jófej munkatársam még nem volt.
+
+98
+00:04:30,034 --> 00:04:31,756
+Kívánok minden jót a további munkához.
+
+99
+00:04:31,996 --> 00:04:34,599
+Sok örömet a gyerekkel, és boldog családéletet.
+
+100
+00:04:35,820 --> 00:04:36,081
+Szia.
+
+101
+00:04:40,225 --> 00:04:40,505
+Légy jó.
+
+102
+00:04:40,525 --> 00:04:51,237
+Szia.
+
+103
+00:04:51,257 --> 00:04:52,018
+Hé, tördelő!
+
+104
+00:04:53,168 --> 00:04:54,289
+Hallom, lelép tőlünk.
+
+105
+00:04:54,729 --> 00:04:56,450
+El se köszönne az öreg kollégáktól?
+
+106
+00:04:56,650 --> 00:04:56,971
+Öreg?
+
+107
+00:04:57,191 --> 00:04:57,851
+Ki az öreg?
+
+108
+00:04:57,931 --> 00:04:59,372
+Hát a jó öreg véres tollú.
+
+109
+00:05:00,033 --> 00:05:03,175
+Olyan fiatal a szerkesztőség, hogy én itt már veteránnak számítok.
+
+110
+00:05:03,595 --> 00:05:05,376
+Arról nem hallottam semmit, miért lép le.
+
+111
+00:05:05,396 --> 00:05:06,397
+Megsértette valaki?
+
+112
+00:05:06,797 --> 00:05:07,858
+Nem, szó sincs volna.
+
+113
+00:05:08,799 --> 00:05:11,701
+Majd egyszer összefutunk az utcán, és egy ital mellett elmesélem.
+
+114
+00:05:12,221 --> 00:05:13,842
+De nem szeretném, ha most lebeszél.
+
+115
+00:05:14,147 --> 00:05:18,008
+Szóval kapott egy jobb ajánlatot, és nem akarja fölkavarni a kedélyeket.
+
+116
+00:05:18,869 --> 00:05:20,009
+Jó, nem mondom el senkinek.
+
+117
+00:05:20,429 --> 00:05:21,770
+Sok szerencsét az új helyen.
+
+118
+00:05:21,790 --> 00:05:22,770
+Nincs új hely.
+
+119
+00:05:22,850 --> 00:05:23,590
+Sokolom.
+
+120
+00:05:25,471 --> 00:05:26,251
+Hát elment.
+
+121
+00:05:26,831 --> 00:05:28,712
+Sajnálom, ő segített, hogy idejöjjek.
+
+122
+00:05:29,072 --> 00:05:30,012
+Tőled el se köszönt?
+
+123
+00:05:30,372 --> 00:05:33,033
+Nincs jelentősége, egyházban lakunk, minden nap találkozunk.
+
+124
+00:05:33,534 --> 00:05:35,274
+Akkor te azt is tudod, miért ment el.
+
+125
+00:05:36,214 --> 00:05:36,575
+Tudom.
+
+126
+00:05:37,615 --> 00:05:37,995
+Na, hagyj!
+
+127
+00:05:40,615 --> 00:05:41,555
+Nem a presszóból megyünk.
+
+128
+00:05:42,555 --> 00:05:44,196
+Egy jó taxis nem csodálkozik.
+
+129
+00:05:44,236 --> 00:05:44,596
+Hová megyél?
+
+130
+00:05:45,996 --> 00:05:47,117
+Kórházból, aztán hozzám.
+
+131
+00:05:47,857 --> 00:05:48,717
+Kórház János.
+
+132
+00:05:48,777 --> 00:05:50,637
+Már nem a János kórház, hanem János.
+
+133
+00:05:50,717 --> 00:05:51,077
+Értem.
+
+134
+00:05:51,538 --> 00:05:52,218
+Aztán hová?
+
+135
+00:05:52,798 --> 00:05:53,178
+Haza?
+
+136
+00:05:54,178 --> 00:05:56,299
+Most hozzák hozzá, vagy hozzád hozzá?
+
+137
+00:05:56,579 --> 00:05:57,339
+Hozzám hozzá.
+
+138
+00:05:58,299 --> 00:05:59,119
+Újabb szabadság?
+
+139
+00:06:00,099 --> 00:06:00,800
+Nem egészen.
+
+140
+00:06:04,000 --> 00:06:06,601
+Kiléptem, illetve Laci kirúgott.
+
+141
+00:06:10,230 --> 00:06:11,450
+Hát itt valami nem stimmel.
+
+142
+00:06:12,251 --> 00:06:15,672
+Két hídig otthon laktál, nálunk otthon, mondván, hogy szabadságom vagy.
+
+143
+00:06:16,872 --> 00:06:18,293
+Most csak azt mondod, ki vagy rugva?
+
+144
+00:06:20,014 --> 00:06:21,094
+Azóta bent sem voltál?
+
+145
+00:06:21,574 --> 00:06:22,515
+Négy hete volt.
+
+146
+00:06:23,115 --> 00:06:25,056
+Laci durván és koromban felmondott.
+
+147
+00:06:26,036 --> 00:06:31,358
+Az ünnepekre való tekintettel még egy pár napig bejártam, persze kérés nélkül, de aztán...
+
+148
+00:06:33,652 --> 00:06:35,412
+Muszáj volt pár napot otthon töltenem.
+
+149
+00:06:36,293 --> 00:06:37,133
+Nálatok otthon.
+
+150
+00:06:38,013 --> 00:06:39,013
+De most már rendben vagyok.
+
+151
+00:06:39,993 --> 00:06:43,994
+Meglátogatom Jánost, hazamegyek és elkezdek állás után nézni.
+
+152
+00:06:44,274 --> 00:06:45,255
+Van egy lehetőségem.
+
+153
+00:06:45,595 --> 00:06:48,535
+Na jó, jó, hát én nem akarok beleszúrni, de hát ez így nem megy.
+
+154
+00:06:48,555 --> 00:06:52,456
+Ha nincs állásod, akkor azt tanácsolom, hogy add fel a lakást és gyere haza.
+
+155
+00:06:52,516 --> 00:06:54,317
+Otthon van koszkvártér és szeretet.
+
+156
+00:06:54,357 --> 00:06:59,698
+Aztán, ha majd jön az a fene nagy szerelem, vagy kibékülis Jánosa, mindig van időd elköltözni.
+
+157
+00:07:01,095 --> 00:07:03,216
+Nagyanyád is nagyon örülne, ha hazajönnél.
+
+158
+00:07:03,616 --> 00:07:05,017
+És ha már beköszöntött?
+
+159
+00:07:05,137 --> 00:07:05,437
+Ki?
+
+160
+00:07:06,377 --> 00:07:07,217
+Az új szerelem.
+
+161
+00:07:07,598 --> 00:07:08,458
+És beköszöntött?
+
+162
+00:07:08,838 --> 00:07:09,418
+Azt hiszem.
+
+163
+00:07:09,898 --> 00:07:10,599
+Ez a Sándor?
+
+164
+00:07:11,279 --> 00:07:11,939
+Ő lenne az?
+
+165
+00:07:12,159 --> 00:07:12,880
+Ez még titok.
+
+166
+00:07:14,340 --> 00:07:15,260
+Ne vagy beavatlak.
+
+167
+00:07:15,981 --> 00:07:16,561
+Mehetünk.
+
+168
+00:07:25,029 --> 00:07:26,730
+Tessék, Lenke néni, a szállítólevél.
+
+169
+00:07:27,030 --> 00:07:28,631
+Bandikám, ezt nem állították át?
+
+170
+00:07:28,931 --> 00:07:29,651
+Mit, Lenke néni?
+
+171
+00:07:29,811 --> 00:07:33,013
+Hát ez 94. január 5-e van.
+
+172
+00:07:34,714 --> 00:07:35,934
+Ó, a fenevigyel.
+
+173
+00:07:36,515 --> 00:07:40,677
+Istenem, legalább három levelet írtam így ez a múlt éve.
+
+174
+00:07:40,697 --> 00:07:45,179
+Az ember automatikusan még az előző évet írja, úgyhogy tessék.
+
+175
+00:07:45,219 --> 00:07:46,559
+Minden év elején így van.
+
+176
+00:07:47,660 --> 00:07:48,040
+Most már 95.
+
+177
+00:07:50,111 --> 00:07:50,871
+Tessék át.
+
+178
+00:07:50,891 --> 00:07:53,992
+Köszönöm, az ember nem szereti, ha múlik az idő.
+
+179
+00:07:54,853 --> 00:07:57,914
+Az én koromban meg nem ártana, ha kicsit lelassulna.
+
+180
+00:07:57,934 --> 00:08:01,315
+Valahogy nem megy a forgalom.
+
+181
+00:08:02,455 --> 00:08:03,716
+Alig jön be pár ember.
+
+182
+00:08:04,476 --> 00:08:07,037
+Ünnep előtt mindenki felvette a fizetését.
+
+183
+00:08:07,297 --> 00:08:09,498
+És a január eleje mindig ettől pang.
+
+184
+00:08:10,038 --> 00:08:12,159
+A kenyér megy, meg a száraz tészta.
+
+185
+00:08:12,419 --> 00:08:14,419
+Decemberben csúcsösszegeket értünk el.
+
+186
+00:08:14,699 --> 00:08:16,000
+Ott látszik most jön a mélypont.
+
+187
+00:08:16,957 --> 00:08:19,824
+pedig megmaradt egy csomó édesség, szaloncukor is.
+
+188
+00:08:20,807 --> 00:08:25,037
+Most kellene egy árleszállítás, mert különben a nyakunkra romlik minden.
+
+189
+00:08:25,342 --> 00:08:28,264
+Gyerekkoromban mindig otthon főztük a szaloncukrot.
+
+190
+00:08:28,724 --> 00:08:35,087
+Vettünk pár év sztaniol papírt, aztán mi magunk csavartuk a cukrokat a sztaniolba.
+
+191
+00:08:35,308 --> 00:08:38,549
+Vízkeresztre nem is maradt a fán, csak ezüstpapír.
+
+192
+00:08:38,749 --> 00:08:39,730
+Mind kijedtük belőle.
+
+193
+00:08:40,210 --> 00:08:42,431
+Nálam is kijedték az unokát mindet.
+
+194
+00:08:42,872 --> 00:08:44,413
+Holnap le is bontjuk a fát.
+
+195
+00:08:45,153 --> 00:08:47,534
+Csak a díszeket rakjuk el óvatosan.
+
+196
+00:08:48,095 --> 00:08:50,396
+Van egy pár darab, ami gyerekkorom óta megvan.
+
+197
+00:08:50,896 --> 00:08:54,420
+egy kis üvegharang, meg egy pici behavazott házikó.
+
+198
+00:08:54,700 --> 00:08:56,021
+Azokra nagyon vigyázok.
+
+199
+00:08:56,442 --> 00:08:58,384
+Mi csak a hónap végén szedjük le.
+
+200
+00:08:59,925 --> 00:09:04,570
+Esténként meggyújtjuk a gyertyákat, visszavarázsoljuk a karácsonyt.
+
+201
+00:09:04,830 --> 00:09:07,233
+Csak már nagyon hullanak a tűlevelek.
+
+202
+00:09:07,253 --> 00:09:10,396
+De hát őrizzük, ameddig csak lehet.
+
+203
+00:09:10,776 --> 00:09:12,398
+Konzerváljuk az ünnepet.
+
+204
+00:09:13,599 --> 00:09:14,220
+Két hét múlva.
+
+205
+00:09:14,935 --> 00:09:16,276
+Igen, állítólag megvan a ház.
+
+206
+00:09:16,416 --> 00:09:17,657
+Nagyon alkalmas hely mindenre.
+
+207
+00:09:18,097 --> 00:09:21,639
+Fenn egy komplet rendelőintézetlen, foszmetika, szolárium, fodrászat.
+
+208
+00:09:22,059 --> 00:09:22,900
+És nem is olyan drága.
+
+209
+00:09:23,240 --> 00:09:23,840
+És hol van?
+
+210
+00:09:24,421 --> 00:09:25,521
+Valahol Bécs mellett.
+
+211
+00:09:25,922 --> 00:09:26,922
+Albert már megnézte.
+
+212
+00:09:27,022 --> 00:09:27,963
+Ez mind nagyon szép.
+
+213
+00:09:28,403 --> 00:09:31,085
+De videóműterem, fotószalón is várakozó is kell.
+
+214
+00:09:32,145 --> 00:09:37,048
+Én nem vitatom, hogy Albert kitűnő üzletember, de terepszemlézni nekem kell, ez tény.
+
+215
+00:09:38,229 --> 00:09:38,849
+Én nem megyek.
+
+216
+00:09:39,270 --> 00:09:40,811
+Ti külföldre költöztök, én maradok.
+
+217
+00:09:41,897 --> 00:09:45,339
+Átveszem ezt a kócerát, és fruzsi szalonnével végre felvirágoztatom.
+
+218
+00:09:45,939 --> 00:09:47,280
+Én rászánnék egy-két évet.
+
+219
+00:09:47,780 --> 00:09:49,421
+Végre vehetnék egy pár szép holmit.
+
+220
+00:09:49,801 --> 00:09:51,362
+És összegyűjtünk egy kis pénzt is.
+
+221
+00:09:51,962 --> 00:09:54,644
+Ha nincs messze, hétvégéken haza is jöhetünk.
+
+222
+00:09:54,966 --> 00:10:00,830
+Albert úgy gondolta, hogy Magyarországon bérelünk lakást, és naponta járunk át, úgy olcsóbb, alig másfél órás autóút.
+
+223
+00:10:01,310 --> 00:10:01,790
+Okos ötlet.
+
+224
+00:10:01,830 --> 00:10:03,191
+Na, álljunk meg egy szóra.
+
+225
+00:10:03,911 --> 00:10:06,133
+Másfél óra oda, másfél óra vissza, ez időben is sok.
+
+226
+00:10:06,713 --> 00:10:08,274
+És a benzint is felemelték.
+
+227
+00:10:08,634 --> 00:10:10,615
+Ott egy külön lakás, az internet is fizetni kell.
+
+228
+00:10:11,236 --> 00:10:12,997
+Majd megnézem én mindösszesen, hogy néz ez ki.
+
+229
+00:10:13,797 --> 00:10:17,039
+Naponta három órányi benzin, nem olyan biztos, hogy ez megér.
+
+230
+00:10:17,460 --> 00:10:18,240
+Csak menjetek.
+
+231
+00:10:18,981 --> 00:10:22,663
+Én csupán egy hagymazaváló, szivaros fotrász vagyok, téved csupa pénzügyi zseni.
+
+232
+00:10:23,348 --> 00:10:26,049
+Nem vettétek észre, hogy oda át sincs kolbászból a kerítés?
+
+233
+00:10:26,069 --> 00:10:27,930
+De ott van lehetőség, kisanyám.
+
+234
+00:10:28,190 --> 00:10:31,251
+Akiben van egy kis spiritusz, az ott megszedheti magát.
+
+235
+00:10:31,551 --> 00:10:32,572
+Albertben megbízhatsz.
+
+236
+00:10:32,852 --> 00:10:34,512
+Ami ez ő nyúl, abból pénz lesz.
+
+237
+00:10:35,353 --> 00:10:36,773
+Nekem még van egy csatám otthon.
+
+238
+00:10:36,793 --> 00:10:38,374
+A gyerek nem akar jönni.
+
+239
+00:10:38,434 --> 00:10:39,674
+A doktor bizonytalankodik.
+
+240
+00:10:39,974 --> 00:10:41,235
+Egyedül meg mégsem mehetek.
+
+241
+00:10:41,715 --> 00:10:42,755
+Szétesne a család.
+
+242
+00:10:43,576 --> 00:10:45,196
+Pedig rám férne egy kis gazdagság.
+
+243
+00:10:45,617 --> 00:10:48,838
+Megnézzük a helyet, az az első, és ha nem alkalmas, akkor maradunk.
+
+244
+00:10:49,759 --> 00:10:54,982
+de akkor beleföccolunk egy csomó pénzt a reklámban, mégpedig a tévében az a menő csak drága, mint a nyavaja.
+
+245
+00:10:55,302 --> 00:10:59,604
+Na, majd én megteremtem a Gábor-Júlia imást, és akkor itt is meggazdagodhatunk.
+
+246
+00:11:00,044 --> 00:11:02,586
+Ezt gondolom neked se lesz az ellenedre fruzsi szalon.
+
+247
+00:11:04,587 --> 00:11:06,988
+Szép rakomány, kocsival jöttél?
+
+248
+00:11:07,568 --> 00:11:08,789
+Júlia elvitte az autót gyanak.
+
+249
+00:11:09,469 --> 00:11:12,111
+Szép sport, csak azt nem tudom, hogyan visszik tovább.
+
+250
+00:11:12,211 --> 00:11:13,151
+Kérsz egy kávét?
+
+251
+00:11:13,191 --> 00:11:14,372
+Köszönöm szépen, az jó lesz.
+
+252
+00:11:14,432 --> 00:11:16,213
+Károly jön, üdvözöld a nevemben.
+
+253
+00:11:18,942 --> 00:11:20,884
+Újon be, nyitva van, hozom a kávét.
+
+254
+00:11:23,606 --> 00:11:24,147
+Szervusz!
+
+255
+00:11:24,227 --> 00:11:25,108
+Szervusz!
+
+256
+00:11:25,148 --> 00:11:27,350
+Hát, ha még ma aktuális, akkor boldogulj el.
+
+257
+00:11:27,470 --> 00:11:27,890
+Viszont?
+
+258
+00:11:28,491 --> 00:11:28,851
+Mi van itt?
+
+259
+00:11:28,871 --> 00:11:29,712
+Téliró a vásár?
+
+260
+00:11:30,513 --> 00:11:32,335
+Etus, szokásos, évi fuvarja, tudod?
+
+261
+00:11:32,515 --> 00:11:36,218
+Ilyenkor összeszedi a környék használt ruháit, és elviszi az alkoholcába.
+
+262
+00:11:37,099 --> 00:11:39,381
+Tedd le a kabátot, csak vigyázz, hogy ne rakd közé.
+
+263
+00:11:40,222 --> 00:11:40,382
+Jó.
+
+264
+00:11:42,124 --> 00:11:43,025
+Mindjárt kapunk kávét.
+
+265
+00:11:44,977 --> 00:11:46,238
+Tessék a kávé.
+
+266
+00:11:46,999 --> 00:11:47,759
+Kocsival jött?
+
+267
+00:11:48,100 --> 00:11:48,420
+Azzal.
+
+268
+00:11:48,580 --> 00:11:49,941
+Elviszem üzleti tárgyalásra.
+
+269
+00:11:51,082 --> 00:11:52,243
+Önkiszolgálás van.
+
+270
+00:11:53,104 --> 00:11:53,725
+Hova visz?
+
+271
+00:11:54,285 --> 00:11:55,726
+Itt a külföldi megrendelő.
+
+272
+00:11:55,746 --> 00:11:57,007
+Megspórulunk egy kiutazást.
+
+273
+00:11:57,508 --> 00:12:03,713
+Eloszta a terenrajzokat, majd minden részletet megbeszélünk, és amikor elkészülnek a kerámiek, akkor ráérünk kiutazni.
+
+274
+00:12:04,054 --> 00:12:05,915
+A hotelépület Svájcban még úgy sincs kész.
+
+275
+00:12:06,335 --> 00:12:08,337
+Én meg mehetek Ausztriába terepszemlére.
+
+276
+00:12:08,858 --> 00:12:09,018
+Hova?
+
+277
+00:12:09,525 --> 00:12:12,308
+Bebeszélték nekik, hogy van egy remek vállalkozás.
+
+278
+00:12:12,789 --> 00:12:16,453
+Családostok kimennek, és dúsgazdagon jönnek vissza.
+
+279
+00:12:17,834 --> 00:12:21,318
+Szerintem ez egy elmebaj, de hát... Már csak Júli és bandája akar menni.
+
+280
+00:12:22,219 --> 00:12:28,305
+Nem akarom felrúgni a családi békét, úgyhogy nekem is mennem kell, de őszintén megmondom, semmi kedvem hozzá.
+
+281
+00:12:28,585 --> 00:12:31,649
+Az utóbbi időben nagyon sokan utaztak nyugatra turistakért.
+
+282
+00:12:32,464 --> 00:12:38,245
+Neki elámult a csillogástól, a ragyogástól, a kilakatoktól, a tisztaságtól.
+
+283
+00:12:39,266 --> 00:12:40,986
+De ott sem jön olyan könnyen a jó mód.
+
+284
+00:12:42,246 --> 00:12:44,387
+Nem ömlik csak úgy magától az ölünkbe a pénz.
+
+285
+00:12:44,787 --> 00:12:47,428
+Fellívtam karácsonykor egy kedves ismerősömet.
+
+286
+00:12:47,888 --> 00:12:50,768
+Amerikában él, amerikai a férje.
+
+287
+00:12:51,909 --> 00:12:56,890
+A kisgyerekei tudnak magyarul, de hát... Szóval kérdeztem, hogy milyen a karácsonya.
+
+288
+00:12:58,021 --> 00:13:01,602
+Nagyon szomorú lett a hangja, és azt mondta, hogy más.
+
+289
+00:13:02,663 --> 00:13:07,905
+A családja, a barátai itthon maradtak, és ami ott van, az idegen.
+
+290
+00:13:08,965 --> 00:13:10,406
+Bánatos karácsonya volt.
+
+291
+00:13:11,346 --> 00:13:12,466
+Hiányzott a család.
+
+292
+00:13:13,026 --> 00:13:14,927
+Én elég sokat vagyok külföldön.
+
+293
+00:13:16,148 --> 00:13:19,709
+Egyik barátaim is vannak odakint, de néhány hét múlva rám tör a honvány.
+
+294
+00:13:20,595 --> 00:13:24,457
+És ez az érzés csak akkor oldódik, amikor itthon vagyok, és magyar szót hallok.
+
+295
+00:13:24,597 --> 00:13:25,837
+Engem nem kell meggyőzni.
+
+296
+00:13:27,238 --> 00:13:28,958
+Pedig a mentőváros sivál és kopott.
+
+297
+00:13:29,599 --> 00:13:32,220
+A lakótelep olyan, mint egy lakótelep.
+
+298
+00:13:32,640 --> 00:13:38,803
+Néha pokolba kiválom az éjszakai ügyeleteket, de rájöttem, hogy ide születtünk.
+
+299
+00:13:39,943 --> 00:13:42,944
+Ide tartozunk, és ezen nem lehet változtatni.
+
+300
+00:13:43,424 --> 00:13:49,447
+Valamint, ha minden rendes és értékes ember elmegy, akkor ki marad itthon, és ki hozza rendbe az országot?
+
+301
+00:13:52,426 --> 00:13:58,532
+És ha már itthon vagyunk, és megittuk a kávét, akkor elvisszük a ruhákat az oltalom menhelyre.
+
+302
+00:14:03,017 --> 00:14:03,717
+Várj meg minket rögtön!
+
+303
+00:14:03,757 --> 00:14:04,458
+Megyek én is!
+
+304
+00:14:04,638 --> 00:14:05,199
+Akkor menjünk!
+
+305
+00:14:11,169 --> 00:14:11,969
+Nem is kell bemennünk.
+
+306
+00:14:12,009 --> 00:14:13,530
+Itt jön a sebesült.
+
+307
+00:14:13,730 --> 00:14:13,970
+Szia!
+
+308
+00:14:14,010 --> 00:14:14,650
+Kiengedtek?
+
+309
+00:14:14,730 --> 00:14:16,850
+Nagyon rá jó, hogy itt ülök, és várom a segítsapatokat.
+
+310
+00:14:16,970 --> 00:14:18,311
+Szervusz, Pista bácsi, köszönöm szépen.
+
+311
+00:14:18,411 --> 00:14:19,451
+Nincs mit, hol megyünk?
+
+312
+00:14:20,071 --> 00:14:20,731
+Az erdésházba.
+
+313
+00:14:20,791 --> 00:14:21,471
+Na, gyertek!
+
+314
+00:14:21,491 --> 00:14:22,872
+Dénes tudja, hogy néz?
+
+315
+00:14:22,892 --> 00:14:24,672
+Felhívtam telefonon, de nem vette fel.
+
+316
+00:14:25,272 --> 00:14:26,712
+Úgy látszik, kint járja az erdőt.
+
+317
+00:14:26,732 --> 00:14:27,833
+De van kulcson, be tudok menni.
+
+318
+00:14:27,853 --> 00:14:28,913
+Nem akarsz hozzánk jönni?
+
+319
+00:14:29,393 --> 00:14:31,474
+Ne haragudj, de az öreg úr pótkarácsonyt tervez.
+
+320
+00:14:31,994 --> 00:14:34,294
+Új évkor beszéltem vele a telefonon, azt mondta, nagyon vár.
+
+321
+00:14:34,314 --> 00:14:35,915
+Megígérte neked, inkább oda menni.
+
+322
+00:14:35,935 --> 00:14:36,615
+Hát akkor irány
+
+323
+00:14:43,191 --> 00:14:46,372
+Tavaly, amikor ezt a naptárt cseréltem, ugyanígy kiesett a szög.
+
+324
+00:14:46,772 --> 00:14:48,413
+Ebben a betonban nem marad meg semmi.
+
+325
+00:14:48,433 --> 00:14:49,533
+Hát nem lehet beverni.
+
+326
+00:14:49,773 --> 00:14:51,114
+Szegbelövő kell hozzá.
+
+327
+00:14:51,794 --> 00:14:53,195
+Nagyon kérlek, ne disznókodj.
+
+328
+00:14:53,375 --> 00:14:54,635
+Ez nem disznókodás.
+
+329
+00:14:55,035 --> 00:14:55,896
+Szegbelövő.
+
+330
+00:14:56,396 --> 00:14:58,316
+Beverj a szeged a betonba.
+
+331
+00:14:58,536 --> 00:14:59,777
+A szegbelövőm nincsen.
+
+332
+00:15:00,791 --> 00:15:03,152
+Ennek a vágási fiúnak vannak szerszámai.
+
+333
+00:15:03,272 --> 00:15:04,873
+Szólj neki, és megcsinálja.
+
+334
+00:15:05,413 --> 00:15:07,274
+Addig ez a naptár ráér, nem?
+
+335
+00:15:07,454 --> 00:15:07,994
+Ne!
+
+336
+00:15:08,454 --> 00:15:11,556
+Beírtam minden fontosabb dátumot a naptárba.
+
+337
+00:15:11,876 --> 00:15:21,160
+Nem káptalan az én fejem, hogy kapásból lökjem, hogy mikor mit kell fizetni, hogy mikor jön a beszedő, mikor jön a felíró, a felvevő, meg a leszedő, mert valami minden.
+
+338
+00:15:21,460 --> 00:15:23,101
+De most benne van a naptárban.
+
+339
+00:15:23,221 --> 00:15:23,981
+Gimnázium.
+
+340
+00:15:24,201 --> 00:15:26,804
+Én tegnap másoltam át mindent az új naptárba.
+
+341
+00:15:27,444 --> 00:15:31,368
+Címet, telefonszámokat, születésnapot, névnapot.
+
+342
+00:15:31,589 --> 00:15:32,810
+Egész nap körmöltem.
+
+343
+00:15:32,830 --> 00:15:33,430
+Jó napot!
+
+344
+00:15:33,451 --> 00:15:34,291
+Boldog új évet!
+
+345
+00:15:34,832 --> 00:15:37,415
+Viszont egészen eltűntek az ünnepekre.
+
+346
+00:15:37,515 --> 00:15:38,576
+A szüleimnél voltunk.
+
+347
+00:15:38,636 --> 00:15:40,558
+Most volt a nagy bemutatkozás.
+
+348
+00:15:40,618 --> 00:15:41,078
+Nem!
+
+349
+00:15:41,359 --> 00:15:45,603
+De igen, én próbáltam lebeszélni, de hát... Hát akkor egyszeresen boldog új évet!
+
+350
+00:15:46,864 --> 00:15:48,806
+Egy nyomozónak szebb lakás illene.
+
+351
+00:15:49,206 --> 00:15:53,109
+De amint hallom, csak annyit keresnek, mint egy általános iskolai tanár.
+
+352
+00:15:53,429 --> 00:15:54,910
+Hát az bizony érdes kevés.
+
+353
+00:15:55,131 --> 00:15:56,532
+Hát nem nagyon lehet ugrálni belőle.
+
+354
+00:15:57,267 --> 00:16:02,108
+Hogyha bejön egy pár bemutató és egy-két reklámfotó, akkor jóval többet keresek, mint a százados úr.
+
+355
+00:16:02,148 --> 00:16:04,269
+A kisasszony gazdagabbat nem talált?
+
+356
+00:16:04,449 --> 00:16:06,089
+Találhattam volna, de nem kellett.
+
+357
+00:16:06,529 --> 00:16:07,389
+Jól kifogtam, ugye?
+
+358
+00:16:07,629 --> 00:16:10,830
+Hallottam otthod, mikor a mérdésünket megtámadták.
+
+359
+00:16:11,190 --> 00:16:13,131
+Van eredmény, elfogták őket?
+
+360
+00:16:13,371 --> 00:16:18,152
+A kis terautót megtaláltuk, azt lopták egy piacon, de a tettesekről, még nyomozunk, nem sok jót mondhatok.
+
+361
+00:16:18,812 --> 00:16:21,274
+Gyanakszunk, hogy ők nem csak fenyőák voltak kocsin.
+
+362
+00:16:21,614 --> 00:16:23,956
+Párgalért nem szoktak baltával támadni.
+
+363
+00:16:24,397 --> 00:16:27,059
+Azzal letakartak valamit, vagy valakit.
+
+364
+00:16:27,459 --> 00:16:32,063
+Világéletemben azt hittem, hogy kétszelit foglalkozás van, az ertész és a főügyelő.
+
+365
+00:16:32,123 --> 00:16:32,944
+Meg az énekes.
+
+366
+00:16:33,064 --> 00:16:35,085
+Ugyan, hangos és öntel.
+
+367
+00:16:35,225 --> 00:16:37,007
+A főügyelő, Cezaromániás.
+
+368
+00:16:37,475 --> 00:16:40,337
+Az énekes be van rezelve, mert pilti a torkát.
+
+369
+00:16:40,577 --> 00:16:42,018
+A főügyerő meg büntet.
+
+370
+00:16:42,319 --> 00:16:43,660
+Letol, kiabál!
+
+371
+00:16:43,720 --> 00:16:46,762
+Mert szigorú és igazságos, de csak prózában.
+
+372
+00:16:46,982 --> 00:16:48,463
+Akkor nem is zavarjuk az urakat.
+
+373
+00:16:48,623 --> 00:16:50,365
+Csak boldog új évet akartunk kívánni.
+
+374
+00:16:50,665 --> 00:16:51,566
+Úgy látom, sikerült.
+
+375
+00:16:51,946 --> 00:16:52,486
+Minden jót!
+
+376
+00:16:52,727 --> 00:16:53,027
+Viszlát!
+
+377
+00:16:56,559 --> 00:16:58,020
+Szépen bemutatkoztál.
+
+378
+00:16:58,241 --> 00:17:00,182
+Hát te is kimutattad a fogadt vehérjét.
+
+379
+00:17:00,443 --> 00:17:03,385
+De ez legalább nem mi fogsor, közös főügyelő úr.
+
+380
+00:17:03,846 --> 00:17:06,348
+Valódi, eredeti, saját.
+
+381
+00:17:06,648 --> 00:17:08,330
+Kinevedd el, hiszem inkább.
+
+382
+00:17:08,370 --> 00:17:10,352
+Kutya, megörlek egyszer.
+
+383
+00:17:11,352 --> 00:17:12,513
+Szép halál.
+
+384
+00:17:12,834 --> 00:17:13,915
+Rosszul indul ez az év.
+
+385
+00:17:14,515 --> 00:17:16,137
+Már tegnap éreztem, hogy valami baj van.
+
+386
+00:17:16,497 --> 00:17:17,338
+Kivel vesztél össze?
+
+387
+00:17:17,358 --> 00:17:20,220
+Steffivel, a hírlapíró barátoddal, vagy a főnököddel?
+
+388
+00:17:20,260 --> 00:17:20,921
+Senkivel.
+
+389
+00:17:20,981 --> 00:17:22,402
+Csak újra munkanélkülé lettem.
+
+390
+00:17:22,462 --> 00:17:23,143
+Viccelsz.
+
+391
+00:17:24,349 --> 00:17:26,449
+A vasárnap szerkesztősége új helyre költözik.
+
+392
+00:17:27,070 --> 00:17:30,230
+Ott csak egy tördölőgép lesz, és váltó műszakban dolgozhattam volna.
+
+393
+00:17:30,850 --> 00:17:32,311
+Nem nagy öröm, de hát emiatt.
+
+394
+00:17:32,391 --> 00:17:34,051
+A régi nyomdában is három műszak volt.
+
+395
+00:17:34,551 --> 00:17:37,632
+Igen, de Piri fér nélkül, két gyerekkel nem vállalta csak a nappal.
+
+396
+00:17:37,652 --> 00:17:39,052
+Én meg nem én szakázom állandóan.
+
+397
+00:17:39,312 --> 00:17:41,573
+Azt viszont nem szerettem volna, hogy Pirit ezért kirúgják.
+
+398
+00:17:42,153 --> 00:17:43,113
+És akkor most mi lesz?
+
+399
+00:17:43,413 --> 00:17:44,413
+Elhívom Góliátot.
+
+400
+00:17:44,994 --> 00:17:46,334
+Biztos lesz valami állandó meló.
+
+401
+00:17:47,074 --> 00:17:51,095
+Nem hiszem, hogy nyomdai állást találnék, pedig azt hittem, hogy ez egy fix nyugodt hely.
+
+402
+00:17:52,122 --> 00:17:54,624
+Én meg azt, hogyha nem is könnyű, de biztos év következik.
+
+403
+00:17:55,144 --> 00:17:57,306
+Ha nem is tettünk félre semmit, de megéltünk volna.
+
+404
+00:17:58,567 --> 00:18:00,528
+Akkor is volt valahogy, amikor vagont pakoltam.
+
+405
+00:18:01,369 --> 00:18:02,649
+Én nem hiszem, hogy nyomorogni fogunk.
+
+406
+00:18:02,689 --> 00:18:05,011
+Hál' Istennek egészséges vagyok, és biztos lesz meló.
+
+407
+00:18:06,412 --> 00:18:08,514
+Csak nagyon váratlanul jött.
+
+408
+00:18:08,534 --> 00:18:10,455
+Lehet, hogy a lap jól megy.
+
+409
+00:18:11,095 --> 00:18:15,418
+Csak ha egész nap nehéz bútorokat, meg ládákat cipelsz, akkor estére mindig hulla leszel.
+
+410
+00:18:16,039 --> 00:18:17,220
+És a kezed is tönkre megy.
+
+411
+00:18:17,480 --> 00:18:18,841
+Majd csak lesz valami megoldás.
+
+412
+00:18:19,625 --> 00:18:23,490
+Remélem, csak az a baj, hogy karácsony után minden tartalékunk elfogyott.
+
+413
+00:18:23,550 --> 00:18:26,634
+Kaptam némi végkialigítést, és biztos lesz valami meló.
+
+414
+00:18:26,674 --> 00:18:28,777
+Ha gondolod, még ma este felhívom Góliátot.
+
+415
+00:18:28,937 --> 00:18:30,680
+Maradjunk ma otthon, honnapig ráér.
+
+416
+00:18:30,900 --> 00:18:34,685
+Játszunk egy jót Matyival, van még egy kis bor, meg egy kis bejegyli.
+
+417
+00:18:34,965 --> 00:18:36,207
+Zárjuk le ezzel az önnepet.
+
+418
+00:18:36,247 --> 00:18:36,327
+Oké.
+
+419
+00:18:37,688 --> 00:18:38,148
+Csókolom.
+
+420
+00:18:38,749 --> 00:18:39,589
+Szia, mi újság?
+
+421
+00:18:39,909 --> 00:18:41,470
+Szeretném megköszönni a karácsonyt.
+
+422
+00:18:41,810 --> 00:18:44,551
+Olyan jó volt Jutka néniéknél, mintha otthon lettem volna.
+
+423
+00:18:44,811 --> 00:18:46,192
+Örülök, hogy jól érezted magad.
+
+424
+00:18:46,332 --> 00:18:47,913
+Ha van kedved, gyere bármikor.
+
+425
+00:18:48,093 --> 00:18:49,174
+Matyi nagyon örült neked.
+
+426
+00:18:49,354 --> 00:18:52,375
+Ha szabad jövök, nálunk ott, ha mindig zűr van és összekedés.
+
+427
+00:18:52,715 --> 00:18:54,976
+Jutka néniéknél olyan finom nyugalom van.
+
+428
+00:18:55,396 --> 00:18:55,917
+Csókolom.
+
+429
+00:18:56,357 --> 00:18:56,737
+Szia.
+
+430
+00:18:57,838 --> 00:18:58,218
+Gyere, Matyi.
+
+431
+00:19:13,896 --> 00:19:16,240
+Gyertek be egy percre, biztosan örülne nektek az öreg.
+
+432
+00:19:16,781 --> 00:19:17,742
+Előre megyek, meglepem.
+
+433
+00:19:24,893 --> 00:19:26,473
+Jaj, milyen szép ez a hely.
+
+434
+00:19:27,074 --> 00:19:31,555
+Itt van szinte a város közepén, mégis milyen békés és csendes, mintha vidéken lennénk.
+
+435
+00:19:31,575 --> 00:19:35,335
+Szép, szép, de nem szívesen laknék itt, esténként félnék együtt.
+
+436
+00:19:44,518 --> 00:19:45,758
+Sikerült a meglepetés?
+
+437
+00:19:45,998 --> 00:19:47,478
+Nem egészen úgy, ahogy én gondoltam.
+
+438
+00:19:48,058 --> 00:19:48,819
+Kórházban van.
+
+439
+00:19:48,939 --> 00:19:49,819
+Jézusom.
+
+440
+00:19:49,859 --> 00:19:50,659
+Eltört a lábát.
+
+441
+00:19:50,981 --> 00:19:51,581
+Akkor most mi lesz?
+
+442
+00:19:51,621 --> 00:19:52,362
+Itt maradsz egyedül?
+
+443
+00:19:52,442 --> 00:19:54,663
+De ez nem lenne bős dolog, nem vagy te még olyan jó.
+
+444
+00:19:54,723 --> 00:19:57,986
+Az a kisebbik baj, csak négy napja nem volt fűtés a házban, teljesen átfűlt.
+
+445
+00:19:58,486 --> 00:20:00,788
+Bedurrantok, ameddig átmelekszik, járok egyet az erdőbe.
+
+446
+00:20:00,808 --> 00:20:01,648
+Persze, szó sem lehet.
+
+447
+00:20:01,848 --> 00:20:02,769
+Itt nem maradhatsz.
+
+448
+00:20:02,789 --> 00:20:04,450
+Pedig előbb-utóbb csak le kell feküdnöm valahol.
+
+449
+00:20:06,471 --> 00:20:07,572
+És ha te maradnál?
+
+450
+00:20:08,513 --> 00:20:09,313
+És akkor ő oda?
+
+451
+00:20:09,854 --> 00:20:11,215
+Hát, vagy fordító.
+
+452
+00:20:11,655 --> 00:20:12,275
+Az még jobb.
+
+453
+00:20:12,455 --> 00:20:13,696
+Hát akkor, kérjünk.
+
+454
+00:20:13,816 --> 00:20:14,817
+Beavatnátok engem is?
+
+455
+00:20:16,383 --> 00:20:18,085
+Nagy bevásárlást csattál.
+
+456
+00:20:18,706 --> 00:20:19,607
+Vendégség lesz?
+
+457
+00:20:19,627 --> 00:20:20,548
+Jönnek egy páran.
+
+458
+00:20:20,948 --> 00:20:23,751
+Hát mindig öröm a készülődés, de sok munka van vele.
+
+459
+00:20:24,031 --> 00:20:25,093
+Te most dolgozol valahol?
+
+460
+00:20:25,153 --> 00:20:27,475
+Igen, gyakornok vagyok egy folyóiratnál.
+
+461
+00:20:27,495 --> 00:20:29,257
+Jó Isten, hogy rohan az idő.
+
+462
+00:20:29,277 --> 00:20:30,879
+Csolkolom, Lenka, én itt csolkolom.
+
+463
+00:20:30,899 --> 00:20:33,001
+Szaradj vissza gyorsan, mert a sütemét elfelejtettem.
+
+464
+00:20:33,041 --> 00:20:33,882
+Vegyél vagy tíze.
+
+465
+00:20:34,263 --> 00:20:35,484
+Hazavinnél engem is?
+
+466
+00:20:35,564 --> 00:20:36,265
+Hát persze.
+
+467
+00:20:36,285 --> 00:20:36,945
+Jó, köszönöm.
+
+468
+00:20:37,878 --> 00:20:40,739
+Tessék beülni, elég lehetett egész nap áldogálni.
+
+469
+00:20:41,060 --> 00:20:43,881
+Az már igaz, estén mindig bedagad a lábam.
+
+470
+00:20:44,801 --> 00:20:48,723
+Akkor Lenke néni nagyon jól bírja, mert az enyém már az első két óra után dagadt.
+
+471
+00:20:48,903 --> 00:20:52,125
+Anya, megyes túros almás rétes megfelel?
+
+472
+00:20:54,866 --> 00:20:59,188
+Te csak állj itt légy szíves az operált derekaddal, és vigyázz, hogy nehogy ellopják a kocsit.
+
+473
+00:20:59,649 --> 00:21:00,949
+Egészséges a dereka?
+
+474
+00:21:01,750 --> 00:21:03,170
+Akár fát is vághat rajta.
+
+475
+00:21:03,510 --> 00:21:04,711
+Vihetjük?
+
+476
+00:21:04,791 --> 00:21:05,171
+Segítek.
+
+477
+00:21:05,411 --> 00:21:06,412
+Köszönöm, nem, nem, nem.
+
+478
+00:21:14,861 --> 00:21:15,922
+Jó napot kívánok!
+
+479
+00:21:16,082 --> 00:21:16,603
+Jó napot kívánok!
+
+480
+00:21:16,963 --> 00:21:18,905
+Művésznő egy évben sem felejt el bennünket.
+
+481
+00:21:19,065 --> 00:21:20,286
+Része az ünnepnek.
+
+482
+00:21:20,466 --> 00:21:22,728
+Tegye fel a koffert, legyen szíves az asztalra.
+
+483
+00:21:24,590 --> 00:21:30,395
+Minden ruha jó, nem újjak, de nincs köztük sem szakadt, sem kopott.
+
+484
+00:21:31,192 --> 00:21:32,352
+Bár mindenki ilyet hozna.
+
+485
+00:21:33,253 --> 00:21:34,233
+Ezeknek örülni fognak.
+
+486
+00:21:35,293 --> 00:21:36,213
+Sajnos sokan vannak.
+
+487
+00:21:36,974 --> 00:21:37,514
+Egyre többen.
+
+488
+00:21:38,074 --> 00:21:39,154
+Oda át ételt osztanak?
+
+489
+00:21:39,714 --> 00:21:40,515
+Ha van, mit osztunk?
+
+490
+00:21:41,375 --> 00:21:45,196
+Sokan hoznak krumplit, étolajat, néha cukrot vagy lisztet.
+
+491
+00:21:45,716 --> 00:21:48,357
+Már az is megtörtént, hogy kolbászt vagy szalámit is kaptunk.
+
+492
+00:21:49,297 --> 00:21:51,678
+Pár éjjeli szálláshelyünk is van, és orvosi ügyelet.
+
+493
+00:21:52,098 --> 00:21:53,698
+Van még lent egy szatyrom, felhozom.
+
+494
+00:21:53,718 --> 00:21:54,219
+Majd én hozom.
+
+495
+00:21:54,879 --> 00:21:55,759
+Elkészítem a jegyzéket.
+
+496
+00:21:56,099 --> 00:21:57,379
+Köszönöm, az nekem nem kell.
+
+497
+00:21:57,820 --> 00:21:59,040
+Bár többet hozhatnék.
+
+498
+00:22:01,769 --> 00:22:03,350
+Honnan szedte össze ezt a sok holmit?
+
+499
+00:22:03,690 --> 00:22:08,294
+Karácsony táján mindig összeszedi az ismeretségi körből a használt ruhákat, aztán együtt elhozjuk ide.
+
+500
+00:22:09,315 --> 00:22:10,215
+Dankó utca 9.
+
+501
+00:22:10,876 --> 00:22:11,696
+Holnap én is hazak.
+
+502
+00:22:11,977 --> 00:22:12,597
+Nagyon helyes.
+
+503
+00:22:18,561 --> 00:22:19,942
+Mintha megbeszéltük volna.
+
+504
+00:22:20,003 --> 00:22:22,664
+Tessék parancsolni.
+
+505
+00:22:22,885 --> 00:22:23,985
+Na, a legjobbkor.
+
+506
+00:22:24,326 --> 00:22:25,727
+Úgyis sok a csomagunk.
+
+507
+00:22:28,041 --> 00:22:28,502
+Szervusz!
+
+508
+00:22:28,602 --> 00:22:29,022
+János!
+
+509
+00:22:29,042 --> 00:22:29,403
+Szervusz!
+
+510
+00:22:29,423 --> 00:22:29,883
+Csokó!
+
+511
+00:22:29,903 --> 00:22:32,006
+Hát, örülök, hogy itt vagy!
+
+512
+00:22:32,366 --> 00:22:33,427
+Alma, meg lesz lepve?
+
+513
+00:22:33,828 --> 00:22:35,229
+Te fogsz meglepődni, Lenke néni.
+
+514
+00:22:36,070 --> 00:22:41,035
+Almát hazavittük a lakásába, ők meg Pista bácsival úgy döntöttek, hogy én jöjjek ide hozzátok, ha megtűrsz.
+
+515
+00:22:41,536 --> 00:22:42,677
+Jut itt csomag mindenkinek!
+
+516
+00:22:42,717 --> 00:22:43,738
+Én viszem ezt a kettőt!
+
+517
+00:22:44,099 --> 00:22:44,959
+Én viszem a kicsit!
+
+518
+00:22:45,060 --> 00:22:45,940
+És nekem mi marad?
+
+519
+00:22:46,161 --> 00:22:47,822
+Ott van egy tálca sütemény az ülésén.
+
+520
+00:22:47,843 --> 00:22:49,084
+Hát ez így nem igazságos.
+
+521
+00:22:51,035 --> 00:22:52,797
+Hát ez tényleg meglepetés.
+
+522
+00:22:53,877 --> 00:22:54,378
+Nem baj.
+
+523
+00:22:54,778 --> 00:22:57,440
+Úgy ápolnak majd, hogy a kórházban sem különben.
+
+524
+00:22:58,441 --> 00:23:04,306
+Bárcsak egy kis paprikás krumpli van vacsorára, de van virslis, és van egy kis dugikonyakom.
+
+525
+00:23:04,687 --> 00:23:05,187
+Megisszük.
+
+526
+00:23:05,207 --> 00:23:05,948
+Nem tud róla.
+
+527
+00:23:06,108 --> 00:23:08,130
+Nekem még ugyan tilos, de egy pár kocs nem állhat.
+
+528
+00:23:09,110 --> 00:23:12,513
+Mettem Mirelithalat, krumplipüréport, uborkát és egy üvegbort.
+
+529
+00:23:12,533 --> 00:23:12,894
+Helyes.
+
+530
+00:23:13,214 --> 00:23:13,854
+Rendékséges?
+
+531
+00:23:14,415 --> 00:23:15,316
+Családi nagy tanács.
+
+532
+00:23:15,616 --> 00:23:16,597
+Szavazunk a jövőről.
+
+533
+00:23:17,290 --> 00:23:19,411
+Ezt csinálja a legtöbb család így éve elején.
+
+534
+00:23:19,451 --> 00:23:25,212
+Szép tervekről rábadik, aztán ha jön az évvégi kassa, hát azért az nem mindig sikeres.
+
+535
+00:23:25,352 --> 00:23:26,833
+De tervezgetni jó.
+
+536
+00:23:27,873 --> 00:23:29,693
+Csakhogy ezek most nem olyan jó tervek.
+
+537
+00:23:30,034 --> 00:23:31,914
+Lehet, hogy egy időre elköltözik a család.
+
+538
+00:23:32,474 --> 00:23:33,294
+Én biztos, hogy nem.
+
+539
+00:23:33,575 --> 00:23:34,175
+Én maradok.
+
+540
+00:23:35,335 --> 00:23:37,856
+Csak egy-két évről van szó, az nem olyan nagy idő.
+
+541
+00:23:37,896 --> 00:23:40,296
+Nyelvet tanulunk, megismerünk egy más világot.
+
+542
+00:23:40,977 --> 00:23:42,437
+És még egy kis pénzünk is lesz.
+
+543
+00:23:43,703 --> 00:23:46,425
+Kicsit furcsa, hogy a vállófélben lévő férje tápolja a család.
+
+544
+00:23:47,165 --> 00:23:48,586
+Nem én akartam így, de nem bánom.
+
+545
+00:23:49,186 --> 00:23:52,308
+Eddig ő lakott itthon, most te jössz.
+
+546
+00:23:53,149 --> 00:23:54,590
+Azt mondtad vállófélben.
+
+547
+00:23:55,190 --> 00:23:58,572
+Hát én szeretném, ha ebből a félből soha nem lenne egész.
+
+548
+00:23:59,173 --> 00:24:01,774
+Álmodozni szabad, ezt senki nem tiltatja meg nekem.
+
+549
+00:24:02,535 --> 00:24:04,436
+Ez a bátrakkora, kérem tisztelettel.
+
+550
+00:24:04,496 --> 00:24:05,997
+Aki most kockáztat, az nyer.
+
+551
+00:24:06,637 --> 00:24:09,419
+Különösen a tehetséges van az újhoz.
+
+552
+00:24:09,479 --> 00:24:10,880
+Természetesen magamról beszélek.
+
+553
+00:24:11,974 --> 00:24:17,056
+Ha a rendőröket és a tanítókat meg kell fizetni, akkor van biztonságban a jövő.
+
+554
+00:24:17,956 --> 00:24:23,838
+És ha nyugdíjas baritonokat is meg kell fizetni, mert akkor van biztonságban a múlt.
+
+555
+00:24:24,318 --> 00:24:29,440
+Ez is fontos, de hát ott van a színháza, a kultúra, a könyvek, a képek.
+
+556
+00:24:30,201 --> 00:24:31,941
+Ezek nélkül elfogy a szellem.
+
+557
+00:24:32,902 --> 00:24:34,382
+Ehhez kellene összefogni.
+
+558
+00:24:35,262 --> 00:24:36,783
+Erre kellene pénzt gyűjteni.
+
+559
+00:24:37,714 --> 00:24:40,275
+Nyugdíjasok munkanélküliek menekültek.
+
+560
+00:24:40,695 --> 00:24:41,775
+Van kinek gyűjteni.
+
+561
+00:24:42,395 --> 00:24:44,555
+És ezt nem szégyelni kell, hanem csinálni.
+
+562
+00:24:45,176 --> 00:24:47,676
+Minél többen, és minél többet.
+
+563
+00:24:48,516 --> 00:24:51,857
+Nem mondom, kell hozzá egy kis kalandvágy, de én szívem szerint maradnék.
+
+564
+00:24:52,717 --> 00:24:54,357
+Biztos, hogy nem szabad elmennünk.
+
+565
+00:24:55,598 --> 00:24:57,938
+Most újból elkezdjük felirogatni a kiadásokat.
+
+566
+00:24:58,018 --> 00:24:58,838
+Másképp nem megy.
+
+567
+00:24:59,639 --> 00:25:02,179
+Csinálok borítékokat, és szétrakjuk a pénzt.
+
+568
+00:25:02,399 --> 00:25:04,560
+Lakbér, fűtés, víz, villany, közös költség.
+
+569
+00:25:05,020 --> 00:25:06,080
+Ami marad, azt megesszük.
+
+570
+00:25:07,108 --> 00:25:09,069
+A tartalékó is, mert Matyinak ruha kell.
+
+571
+00:25:09,089 --> 00:25:11,871
+A konyhában kiégett az izzó, nekem meg Lukas a cipőm.
+
+572
+00:25:11,911 --> 00:25:12,971
+Erre is lesz egy boríték.
+
+573
+00:25:18,234 --> 00:25:18,615
+Buék!
+
+574
+00:25:18,655 --> 00:25:19,055
+Buék!
+
+575
+00:25:19,775 --> 00:25:20,616
+Hát ti!
+
+576
+00:25:21,416 --> 00:25:22,217
+Hogy jöttetek be?
+
+577
+00:25:22,277 --> 00:25:23,097
+Nyitva volt az ajtó.
+
+578
+00:25:23,217 --> 00:25:24,698
+Mi vagyunk a bűnbánózó rándokok.
+
+579
+00:25:24,718 --> 00:25:26,279
+Főleg ő, én csak javasoltam.
+
+580
+00:25:26,459 --> 00:25:29,181
+Hát ezt nem nagyon értem, de majd elmagyarázzátok, üljetek le.
+
+581
+00:25:29,221 --> 00:25:30,181
+Kaphatnánk poharakat?
+
+582
+00:25:30,301 --> 00:25:33,043
+Valódi termelői bor, ezzel szeretnénk kocintani.
+
+583
+00:25:33,944 --> 00:25:36,185
+Itt vannak a poharak, hozzam a kis tányérukat.
+
+584
+00:25:43,004 --> 00:25:44,045
+Nagyon megsértetted.
+
+585
+00:25:44,385 --> 00:25:48,368
+Majd előveszem a legvarázsosabb modoromat, és győzni fogunk, csak figyelj.
+
+586
+00:25:51,850 --> 00:25:52,350
+Szóval?
+
+587
+00:25:53,831 --> 00:25:54,932
+Mit szólsz hozzá, Magdi?
+
+588
+00:25:54,972 --> 00:25:56,533
+Milyen csinos ez a kis ruha.
+
+589
+00:25:57,814 --> 00:25:59,435
+Ez már régi kopott lemez.
+
+590
+00:25:59,995 --> 00:26:02,116
+A ruhám hat éves, és ezerszer láttad.
+
+591
+00:26:03,857 --> 00:26:04,538
+Térj a lényegre.
+
+592
+00:26:06,147 --> 00:26:06,928
+Jó, belevágok.
+
+593
+00:26:07,468 --> 00:26:09,829
+Nagyon sajnálom, hogy durva voltam és megbántottalak.
+
+594
+00:26:10,190 --> 00:26:11,090
+Bocsánatot kérek.
+
+595
+00:26:12,891 --> 00:26:13,672
+Megbocsátok.
+
+596
+00:26:14,332 --> 00:26:16,234
+Ezért kár volt a ruhámmal kezdeni.
+
+597
+00:26:18,955 --> 00:26:19,275
+És?
+
+598
+00:26:20,316 --> 00:26:20,796
+Mit és?
+
+599
+00:26:21,437 --> 00:26:23,718
+Szóval visszajössz a presszóba dolgozni?
+
+600
+00:26:26,280 --> 00:26:27,561
+Eddig erről nem volt szó.
+
+601
+00:26:33,444 --> 00:26:40,508
+Azt szerette volna megkérdezni tőled, hogyha megígéri, hogy ezentúl szépen és illedelmesen viselkedik, akkor visszajössze hozzánk a presszóba.
+
+602
+00:26:40,848 --> 00:26:43,009
+Na, én is ezt kérdeztem, csak sokkal egyszerűbben.
+
+603
+00:26:43,389 --> 00:26:43,969
+Nos?
+
+604
+00:26:45,390 --> 00:26:49,352
+Még meggondolom, de ezért, hogy nagyon jó állásajánlatot kaptam.
+
+605
+00:26:50,532 --> 00:26:54,835
+Nem tudom, vonzanak-e még a konyakos borra egy goromba üzletvezető kíséretébe.
+
+606
+00:26:56,595 --> 00:26:57,756
+A bort azért kitöltheted.
+
+607
+00:27:38,301 --> 00:27:57,868
+Köszönöm, hogy megnéztétek!
+
